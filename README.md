@@ -10,3 +10,8 @@
 
         Try this command: export GIO_EXTRA_MODULES=/usr/lib/x86_64-linux-gnu/gio/modules/
 
+
+		For a lazy person like me, running the python script can also be considered as 'work', so for this task you can put script on start up that will be automatically update the wallpaper on start-up.
+
+	Link : https://stackoverflow.com/questions/24518522/run-python-script-at-startup-in-ubuntu
+
